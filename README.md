@@ -1,5 +1,9 @@
 # Food Delivery 
 
+### About
+<p>
+UI for food delivery application made with React native for Training and Learning purposes.</p>
+
 <img src="https://cdn.dribbble.com/users/2478650/screenshots/15128999/media/e96119ec7d8216304e855f8ef38a0bff.png?compress=1&resize=800x600">
 
 ## Design by  Victoria Samoilenko
