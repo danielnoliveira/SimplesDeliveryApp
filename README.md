@@ -11,7 +11,7 @@ UI for food delivery application made with React native for Training and Learnin
 
 ## UI code by Daniel Nogueira
 
-<p align="center">
+<p align="center" style="background-color:#c3c3c3">
     
 <img src="https://media.giphy.com/media/r2SMu0LoUazKyuS53f/giphy.gif" />
 </p>
